@@ -1,0 +1,20 @@
+#t1,
+#sb1,
+h3,
+p {
+    color: #191970;
+    font-family: 'Abhaya Libre', serif;
+}
+
+#form {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+#form1 {
+    background-color: #191970;
+}
+
+label {
+    font-family: 'Abhaya Libre', serif;
+}

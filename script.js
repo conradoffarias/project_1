@@ -1,2 +1,7 @@
-// var day = new Date();
-// document.body.innerHTML = "<h1>Hoje é dia: " + day + "</h1>";
+document.getElementById('form1').addEventListener('submit', submiForm)
+
+function submiForm(e){
+    e.preventDeFault();
+
+    console.log(123);
+}
